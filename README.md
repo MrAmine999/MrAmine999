@@ -1,4 +1,18 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is Amine</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MrAmine999/MrAmine999/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **MrAmine999/MrAmine999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
