@@ -9,9 +9,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrAmine999/MrAmine999/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrAmine999/MrAmine999/output/snake.svg" />
-<img src="https://raw.githubusercontent.com/MrAmine999/MrAmine999/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrAmine999/MrAmine999/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrAmine999/MrAmine999/output/github-snake.svg" />
+<img  alt="Snake animation" src="https://raw.githubusercontent.com/MrAmine999/MrAmine999/output/github-snake.svg"/>
 </picture>
 
 ###
