@@ -14,6 +14,10 @@
 <img  alt="Snake animation" src="https://raw.githubusercontent.com/MrAmine999/MrAmine999/output/github-snake.svg"/>
 </picture>
 
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RtNzNiaDlnYnFkdG1xdmF4bnMweGc2ank1b2VhMHpiNWgwZ2xpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
+</div>
+
 ###
 
 <!--
